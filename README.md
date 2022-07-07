@@ -1,0 +1,1 @@
+# plain2tanka
